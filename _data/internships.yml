@@ -2909,3 +2909,24 @@ projects:
       - AI Agent
       - Authorization
       - Verifiable Intent
+
+  - id: p-2026-cs-002
+    title: "Test new title for internships project"
+    published: "2026-05-16"
+    applicationEnd: "2026-05-28 23:59"
+    year: 2026
+    description: >
+      Test description of this project.
+      This project aims to perform some activities.
+    type: T
+    level:
+
+    unit:
+
+    supervisor:
+
+    objectives:
+
+    topics:
+
+    timeFrame: When available
