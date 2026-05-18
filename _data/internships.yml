@@ -2759,7 +2759,7 @@ projects:
   - id: p-2026-cleanse-1
     title: Failure Points and Mitigation Strategies in Software Bill of Materials (SBOM) Workflows
     published: '2026-03-05'
-    applicationEnd: 2026-03-30 23:59
+    applicationEnd: 2026-05-14 23:59
     year: 2026
     description: |
       The increasing adoption of Software Bills of Materials (SBOMs) within modern software supply chains introduces new opportunities for transparency [1], but often we need to trust in third-party tools. This research project aims to systematically map the end-to-end SBOM lifecycle, identify the most critical technical and procedural failure points, and develop practical mitigation strategies, including automation, verification pipelines, standards compliance, and security controls. The outcome will be a validated framework and set of best practices for strengthening SBOM workflows in enterprise environments.
@@ -2786,6 +2786,8 @@ projects:
         links:
           - name: DOI
             url: https://doi.org/10.1109/REW66121.2025.00040
+    applicationPreviousEnd:
+      - 2026-03-30 23:59
 
   - id: p-2026-cleanse-2
     title: Bill of Materials approach to secure AI/ML Systems
