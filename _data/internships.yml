@@ -2790,7 +2790,7 @@ projects:
   - id: p-2026-cleanse-2
     title: Bill of Materials approach to secure AI/ML Systems
     published: '2026-03-05'
-    applicationEnd: 2026-03-30 23:59
+    applicationEnd: 2026-05-20 23:59
     year: 2026
     description: |
       Securing AI/ML Systems increasingly requires supply-chain visibility not just for software, but for models, datasets, dependencies, training pipelines, and runtime environments. Also regulations like the EU AI Act, and NIST AI RMF require organizations a clear way to document what goes into their AI models. <br />
@@ -2822,6 +2822,8 @@ projects:
         links:
           - name: Link
             url: https://cyclonedx.org/guides/OWASP_CycloneDX-Authoritative-Guide-to-AI-ML-BOM-en.pdf
+    applicationPreviousEnd:
+      - 2026-03-30 23:59
 
   - id: p-2026-safeware-1
     title: Automated Cross-Regulation Compliance for Digital Regulations via Requirements Engineering
