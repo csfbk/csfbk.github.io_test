@@ -2898,3 +2898,31 @@ projects:
       - AI Agent
       - Authorization
       - Verifiable Intent
+
+  - id: p-2026-cs-004
+    title: "Hopefully last project"
+    published: "2026-05-19"
+    applicationEnd: "2026-06-04 23:59"
+    year: 2026
+    description: |
+      New description
+      New row
+      New row again
+    type: I
+    level:
+      - BSc
+      - MSc
+    unit:
+      - SaFEWaRe
+      - ST
+    supervisor:
+      - LucaPiras
+      - MarcoPernpruner
+    objectives:
+      - Objective 1
+      - Objective 2
+    topics:
+      - T1
+    notes: |
+      Notes
+      Notes2
