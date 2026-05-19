@@ -2898,3 +2898,34 @@ projects:
       - AI Agent
       - Authorization
       - Verifiable Intent
+
+  - id: p-2026-cs-002
+    title: "Another new internship project"
+    published: "2026-05-19"
+    applicationEnd: "2026-06-03 23:59"
+    year: 2026
+    description: |
+      Test description
+      New line
+      Another new line
+    type: IT
+    level:
+      - BSc
+    unit:
+      - ST
+      - SaFEWaRe
+    supervisor:
+      - MarcoPernpruner
+      - LucaPiras
+    objectives:
+      - Objective 1
+      - Objective 2
+      - Objective 3
+    topics:
+      - Topic 1
+      - Topic 2
+    references:
+      - text: Reference 1
+        link: https://cs.fbk.eu
+      - text: Reference 2
+        link: https://aleph.fbk.eu
