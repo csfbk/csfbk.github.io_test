@@ -2898,3 +2898,29 @@ projects:
       - AI Agent
       - Authorization
       - Verifiable Intent
+
+  - id: p-2026-cs-006
+    title: Altro progetto
+    published: '2026-05-19'
+    applicationEnd: 2026-06-05 23:59
+    year: 2026
+    description: |-
+      Descrizione
+      Nuova riga
+      Altra riga
+    type: T
+    level:
+      - BSc
+    unit:
+      - ST
+    supervisor:
+      - MarcoPernpruner
+    objectives:
+      - Objective 1
+      - Objective 2
+    topics:
+      - T1
+    references:
+      - text: Ref1
+        link: https://st.fbk.eu
+    notes: Some notes
